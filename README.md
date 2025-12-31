@@ -1,4 +1,8 @@
 ## Description
+# What this programm does:
+-calculates production for each month.
+-Checks if current stock is enough.
+
 The program prompts the user for: 
 1. An initial stock level.
 2. The number of months to plan.
