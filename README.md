@@ -4,7 +4,7 @@
 In this exercise i simulated a sales and operations planning using the zero stock level strategy. The program asks the user to enter the following data:
 
    * An initial stock level for a product  
-    * The number of month(s) to plan  
+  * The number of month(s) to plan  
 * The planned sales quantity for each month  
  
 Based on this data, calculate the required production quantity as follows:
