@@ -1,21 +1,16 @@
 ## Description
 # What this programm does:
 
--Calculates production for each month.
--Checks if current stock is enough.
+In this exercise i simulated a sales and operations planning using the zero stock level strategy. The program asks the user to enter the following data:
 
-The program prompts the user for: 
-1. An initial stock level.
-2. The number of months to plan.
-3. Expected sales figures for each individual month.
-4. The script automatically calculates whether production is required for each individual month.
+An initial stock level for a product
+The number of month(s) to plan
+The planned sales quantity for each month
+Based on this data, calculate the required production quantity as follows:
 
-
-6. The required production quantity is calculated as follow:
-7. If the sales quantity is smaller than the stock level of the previous month, the production quantity is 0.
-8. If the sales quantity is larger or similar to the stock level of the previous month, the production quantity is this difference.
-
-##Below is an example execution of the program:
+If the sales quantity is smaller than the stock level of the previous month, the production quantity is 0
+If the sales quantity is larger than the stock level of the previous month, the production quantity is this difference
+Below is an example execution of the program:
 
 Please enter an initial stock level: 500
 Please enter the number of month to plan: 5
